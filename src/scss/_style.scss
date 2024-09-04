@@ -14,3 +14,8 @@ body {
 .none {
   display: none !important;
 }
+
+.huf-remove:hover {
+  background-color: darkred !important;
+  cursor: pointer;
+}
